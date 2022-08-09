@@ -53,7 +53,7 @@ export const SearchPage = () => {
           <h4>Result</h4>
           <hr />
           <div className="alert alert-primary" style={{display: showSeach ?'': 'none'}}>
-            Search a hero
+            Search a hero 
           </div>
           <div className="alert alert-danger" style={{display: showError ?'':'none'}}>
             No Hero with<b> {q} </b>
