@@ -1,0 +1,25 @@
+.container{
+    
+    margin-top: 40px;
+}
+.containerCard{
+    background-color: rgba(0, 0, 0, 0.685);
+    color: rgb(255, 249, 249);
+    
+    font-weight: 700;
+    height: 300px;
+    width: 400px;
+    border-radius: 5%;
+    box-shadow: 1px 7px 30px 0px rgba(214,8,8,0.75);
+    -webkit-box-shadow: 1px 7px 30px 0px rgba(214,8,8,0.75);
+    -moz-box-shadow: 1px 7px 30px 0px rgba(214,8,8,0.75);
+}
+
+
+.card-img{
+    height: 100%;
+    width: 100%;
+}
+.col-4{
+    padding: 0;
+}
